@@ -6,7 +6,7 @@ class Myscript < Formula
   license "MIT"
 
   def install
-    bin.install "myscript.sh" => "myscript"
+    bin.install "proone.sh" => "testofnick"
   end
 
   test do
