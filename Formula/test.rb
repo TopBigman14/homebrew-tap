@@ -5,6 +5,6 @@ class Myscript < Formula
   sha256 "..."
 
   def install
-    bin.install "bash/myscript"
+    bin.install "bin/test"
   end
 end
